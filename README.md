@@ -1,6 +1,6 @@
 # He Stark map
 
-Calculating the Stark map for triplet Rydberg helium atoms
+Calculating the Stark map for triplet Rydberg helium atoms. This is based on the paper M. L. Zimmerman et al., Phys. Rev. A, 20, 2251 (1979) http://dx.doi.org/10.1103/PhysRevA.20.2251
 
 ## Install
 
